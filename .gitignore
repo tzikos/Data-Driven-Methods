@@ -1,3 +1,4 @@
 *.mat
 CODE/
 .DS_Store
+data/
